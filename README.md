@@ -19,3 +19,7 @@ My list of essential tools for Windows (currently Windows 7).
 * Skype
 * TeamViewer
 * WinCDEmu
+
+# Development tools
+
+* Microsoft Web Platform Installer
