@@ -23,3 +23,5 @@ My list of essential tools for Windows (currently Windows 7).
 # Development tools
 
 * Microsoft Web Platform Installer
+* PuTTY
+* WinMerge
