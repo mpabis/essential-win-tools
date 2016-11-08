@@ -1,0 +1,11 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    { "key": "ctrl+shift+m",         "command": "editor.action.jumpToBracket",
+                                     "when": "editorTextFocus" },
+    { "key": "ctrl+d",              "command": "lafe.duplicateCode" },
+    { "key": "ctrl+shift+space",               "command": "workbench.action.splitEditor" },
+    { "key": "ctrl+m",              "command": "editor.action.jumpToBracket",
+                                     "when": "editorTextFocus" },
+    { "key": "alt+`",         "command": "workbench.action.terminal.focus",
+                                     "when": "editorTextFocus" }
+]
