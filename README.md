@@ -20,6 +20,7 @@ My list of essential tools for Windows (currently Windows 7).
 * TeamViewer
 * WinCDEmu
 * [PureText](http://stevemiller.net/puretext/)
+* [elevate](https://github.com/alexey-gusarov/elevate)
 
 # Development tools
 
