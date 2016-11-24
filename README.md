@@ -24,6 +24,8 @@ My list of essential tools for Windows (currently Windows 7).
 
 # Development tools
 
+* [Visual Studio Code](code.visualstudio.com)
 * Microsoft Web Platform Installer
 * PuTTY
 * WinMerge
+* [Posh Git](https://github.com/dahlbyk/posh-git)
