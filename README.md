@@ -31,10 +31,10 @@ My list of essential tools for Windows (currently Windows 7).
 * WinMerge
 * [Posh Git](https://github.com/dahlbyk/posh-git)
 * Docker
-* Git
-* curl
-* nuget.commandline
-* NugetPackageExplorer
+* [Git](https://chocolatey.org/packages/git)
+* [curl](https://chocolatey.org/packages/curl)
+* [nuget.commandline](https://chocolatey.org/packages/NuGet.CommandLine)
+* [NugetPackageExplorer](https://chocolatey.org/packages/NugetPackageExplorer)
 * Slack
  
 # ConsoleZ Settings
