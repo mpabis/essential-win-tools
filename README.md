@@ -1,4 +1,4 @@
-# essential-win-tools
+# Essential Tools for Windows
 
 My list of essential tools for Windows (currently Windows 7).
 
@@ -21,6 +21,7 @@ My list of essential tools for Windows (currently Windows 7).
 * WinCDEmu
 * [PureText](http://stevemiller.net/puretext/)
 * [elevate](https://github.com/alexey-gusarov/elevate)
+* CCleaner
 
 # Development tools
 
@@ -29,3 +30,17 @@ My list of essential tools for Windows (currently Windows 7).
 * PuTTY
 * WinMerge
 * [Posh Git](https://github.com/dahlbyk/posh-git)
+* Docker
+* Git
+* curl
+* nuget.commandline
+* NugetPackageExplorer
+* Slack
+ 
+# ConsoleZ Settings
+
+[console.xml](Console/console.xml)
+
+# Visual Studio Key Bindings
+
+[keybindings.json](visual%20studio%20code/keybindings.json)
