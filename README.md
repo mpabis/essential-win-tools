@@ -22,6 +22,7 @@ My list of essential tools for Windows (currently Windows 7).
 * [PureText](http://stevemiller.net/puretext/)
 * [elevate](https://github.com/alexey-gusarov/elevate)
 * CCleaner
+* [Fira Code font](https://github.com/tonsky/FiraCode)
 
 # Development tools
 
@@ -36,7 +37,8 @@ My list of essential tools for Windows (currently Windows 7).
 * [nuget.commandline](https://chocolatey.org/packages/NuGet.CommandLine)
 * [NugetPackageExplorer](https://chocolatey.org/packages/NugetPackageExplorer)
 * Slack
- 
+* [dotnet cli helper ](http://reynders.co/use-this-helper-cli-for-switching-net-core-sdk-versions)
+
 # ConsoleZ Settings
 
 [console.xml](Console/console.xml)
